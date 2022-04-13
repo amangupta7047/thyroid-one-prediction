@@ -1,6 +1,6 @@
 ﻿gunicorn
 scikit-learn==0.22.2
-xgboost==0.90
+xgboost==1.5.2
 numpy
 pandas
 requests
